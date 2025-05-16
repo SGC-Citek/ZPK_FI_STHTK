@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Sổ tổng hợp tài khoản",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zpkfisthtk"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_D3C039C6FFD3A66385BCD8937CAB7ED981CB3FF9_TM",
+    "semanticObject": "zpkfisthtk",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_D3C039C6FFD3A66385BCD8937CAB7ED981CB3FF9_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Sổ tổng hợp tài khoản",
+        "subtitle": "ZGL08",
+        "icon": "sap-icon://collections-management"
+      }
+    }
+  ]
+}

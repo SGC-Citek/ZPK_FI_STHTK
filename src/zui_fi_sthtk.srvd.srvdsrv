@@ -1,0 +1,4 @@
+@EndUserText.label: 'Sổ tổng hợp tài khoản'
+define service ZUI_FI_STHTK {
+  expose ZI_FI_STHTK;
+}
